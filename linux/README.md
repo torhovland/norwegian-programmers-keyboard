@@ -54,7 +54,7 @@ Add the following to the end of /usr/share/X11/xkb/symbols/no
       key <BKSP>  { [ Caps_Lock ] };
     };
 
-Put the following variant into /usr/share/X11/xkb/rules/evdev.xml
+Find the Norwegian layout in /usr/share/X11/xkb/rules/evdev.xml and insert the following variant:
 
     <variant>
       <configItem>
