@@ -9,3 +9,12 @@ A keyboard layout suited for programmers writing code as well as Norwegian and E
 - Most of the symbols on the number row are left as on a standard Norwegian keyboard.
 - Backspace and Caps Lock are swapped.
 - Otherwise optimized using [Carpalx](http://mkweb.bcgsc.ca/carpalx/), with code as well as Norwegian and English prose used as input.
+
+## Layout
+![Normal layout](images/NorProg.jpg)
+
+### Shift layout
+![Shift layout](images/NorProgShft.jpg)
+
+### AltGr layout
+![AltGr layout](images/NorProgAltGr.jpg)
